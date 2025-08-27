@@ -19,7 +19,7 @@ public class AnaBetancur {
     public AnaBetancur(){
 
     }
-    
+
     public AnaBetancur(Integer id, String direccion, Boolean esHinchaVerdolaga) {
         this.id = id;
         this.direccion = direccion;
